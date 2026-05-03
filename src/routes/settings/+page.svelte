@@ -345,7 +345,7 @@
 				<p>
 					<a
 						class="link link-primary"
-						href="https://github.com/BlackTiger007/DataSearch-Pro"
+						href="https://github.com/RalfKit/DataSearch-Pro"
 						target="_blank"
 					>
 						{m.settings_footer_github()}
